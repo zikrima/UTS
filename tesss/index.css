@@ -1,0 +1,600 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #111111;
+    background: url(ucl.jpg) ;
+    background-size: 100%; 
+    background-attachment: fixed;
+    
+    color: #f9f9f9;
+
+    
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.icon {
+    /* font-size: 35px; */
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.login_di_index {
+    margin-left: 300px;
+    padding-left: 0px;
+    background-color: #ff4655;
+    padding: 10px 50px;
+}
+
+header h1 {
+    font-size: 35px;
+
+}
+
+nav ul {
+    text-decoration: none;
+    padding-top: 90px;
+    list-style-type: none;
+    text-align: center;
+    background-color: #1f1f1f;
+    padding-left: 650px;
+}
+
+.header {
+    background: #111111;
+    margin-top : -20px;
+    padding: 0px;
+    position: fixed;
+    width: 100%;
+        
+}
+
+
+
+.navbar li{
+    display: inline-block;
+    margin-right: 100px;
+    margin-bottom: 25px;
+    
+}
+
+.navbar a {
+
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    
+    
+    
+}
+
+
+section .selamatdatang  {
+    font-size: 60px;
+    text-align: center;
+    padding-bottom: 150px;
+    padding-top: 150px;
+}
+
+section a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.backgr {
+    
+    background-color: #1f1f1f;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-bottom: 100px;
+    
+
+    
+}
+
+.iframe1 {
+    margin-left: 100px;
+    padding-top: 200px;
+    margin-bottom: 100px;
+    width: 640px;
+    height: 360px;
+}
+
+.apaitu {
+    font-size: 50px;
+    text-align: left;
+    margin-right: 100px;
+    margin-top: -450px;
+    margin-left: 1000px;
+    
+}
+
+.kontenutama {
+    text-align: left;
+    margin-right: 100px;
+    font-size: 25px;
+    margin-left: 1000px;
+    
+}
+
+section {
+    padding: 2em;
+    text-align: center;
+}
+
+
+
+footer {
+    background-color: #111111;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+    /* position: fixed; */
+    
+}
+
+
+
+
+
+
+.sidee {
+    display: flex;
+    position: fixed;
+    
+    
+}
+
+.sidebar {
+    width: 30px;
+    background-color: #1f1f1f;
+    color: white;
+    padding: 20px;
+    height: 450px;
+    
+    
+    
+}
+
+
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    padding-right: 200px;
+    
+    
+}
+
+.sidebar li {
+    margin-bottom: 100px;
+    
+}
+
+.home_button    {
+    width: 25px;
+    color: white;
+}
+
+.profile_button    {
+    width: 25px;
+    color: white;
+}
+
+.gallery_button    {
+    width: 25px;
+    color: white;
+}
+
+.information_button    {
+    width: 25px;
+    color: white;
+}
+
+
+
+
+.sidebar ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+.backgr2 {
+    
+    background-color: #1f1f1f;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-bottom: 100px;
+    
+
+    
+}
+
+.iframe2 {
+    margin-left: 130px;
+    padding-top: 200px;
+    margin-bottom: 100px;
+    width: 640px;
+    height: 360px;
+}
+
+.apaitu2 {
+    font-size: 30px;
+    text-align: left;
+    margin-right: 100px;
+    margin-top: -450px;
+    margin-left: 1000px;
+    
+}
+
+.kontenutama2 {
+    text-align: left;
+    margin-right: 100px;
+    font-size: 25px;
+    margin-left: 1000px;
+    
+}
+
+
+
+
+
+
+.backgr3 {
+    
+    background-color: #111111;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-bottom: 100px;
+    
+    
+    
+
+    
+}
+
+.iframe3 {
+    margin-left: 1040px;
+    padding-top: 200px;
+    margin-bottom: 100px;
+    width: 640px;
+    height: 360px;
+}
+
+.apaitu3 {
+    font-size: 30px;
+    text-align: right;
+    margin-right: 1280px;
+    margin-top: -450px;
+    margin-left: 290px;
+    
+}
+
+.kontenutama3 {
+    text-align: right;
+    margin-right: 1280px;
+    font-size: 25px;
+    margin-left: 200px;
+    padding-bottom: 100px;
+    
+    
+}
+
+
+
+.backgr4 {
+    
+    background-color: #1f1f1f;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-bottom: 100px;
+    
+
+    
+}
+
+.iframe4 {
+    margin-left: 200px;
+    padding-top: 200px;
+    margin-bottom: 100px;
+    width: 640px;
+    height: 360px;
+}
+
+.apaitu4 {
+    font-size: 30px;
+    text-align: left;
+    margin-right: 100px;
+    margin-top: -450px;
+    margin-left: 1080px;
+    
+}
+
+.kontenutama4 {
+    text-align: left;
+    margin-right: 100px;
+    font-size: 25px;
+    margin-left: 1080px;
+    padding-bottom: 100px;
+    
+}
+
+
+
+
+
+
+
+
+.backgr5 {
+    
+    background-color: #111111;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-bottom: 100px;
+    
+
+    
+}
+
+.iframe5 {
+    margin-left: 1040px;
+    padding-top: 200px;
+    margin-bottom: 100px;
+    width: 640px;
+    height: 360px;
+}
+
+.apaitu5 {
+    font-size: 30px;
+    text-align: right;
+    margin-right: 1280px;
+    margin-top: -450px;
+    margin-left: 100px;
+    
+}
+
+.kontenutama5 {
+    text-align: right;
+    margin-right: 1280px;
+    font-size: 25px;
+    margin-left: 200px;
+    
+    
+}
+
+.link_content   {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+    text-decoration: none;
+    text-align: center;
+    
+
+    
+}
+.link_content a{
+    text-decoration: none;
+    color: white;
+    
+    
+    
+    
+    /* text-align: center; */
+}
+
+.link_content ul{
+    list-style: none;
+    background-color: #1f1f1f;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.link_content li{
+    display: inline;
+    margin-right: 50px;
+    margin-left: 50px;
+    
+}
+
+
+
+.backgr6 {
+    
+    background-color: #1f1f1f;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-bottom: 100px;
+    
+
+    
+}
+
+.iframe6 {
+    margin-left: 200px;
+    padding-top: 200px;
+    margin-bottom: 100px;
+    width: 640px;
+    height: 360px;
+}
+
+.apaitu6 {
+    font-size: 30px;
+    text-align: left;
+    margin-right: 100px;
+    margin-top: -450px;
+    margin-left: 1080px;
+    
+}
+
+.kontenutama6 {
+    text-align: left;
+    margin-right: 100px;
+    font-size: 25px;
+    margin-left: 1080px;
+    padding-bottom: 100px;
+    
+}
+
+
+.backgr7 {
+    
+    background-color: #111111;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-bottom: 100px;
+    
+
+    
+}
+
+.iframe7 {
+    margin-left: 1040px;
+    padding-top: 200px;
+    margin-bottom: 100px;
+    width: 640px;
+    height: 360px;
+}
+
+.apaitu7 {
+    font-size: 30px;
+    text-align: right;
+    margin-right: 1280px;
+    margin-top: -450px;
+    margin-left: 100px;
+    
+}
+
+.kontenutama7 {
+    text-align: right;
+    margin-right: 1280px;
+    font-size: 25px;
+    margin-left: 250px;
+    
+    
+}
+
+.backgr8 {
+    
+    background-color: #1f1f1f;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-bottom: 100px;
+    
+
+    
+}
+
+.iframe8 {
+    margin-left: 200px;
+    padding-top: 200px;
+    margin-bottom: 100px;
+    width: 640px;
+    height: 360px;
+}
+
+.apaitu8 {
+    font-size: 30px;
+    text-align: left;
+    margin-right: 100px;
+    margin-top: -450px;
+    margin-left: 1080px;
+    
+}
+
+.kontenutama8 {
+    text-align: left;
+    margin-right: 100px;
+    font-size: 25px;
+    margin-left: 1080px;
+    padding-bottom: 100px;
+    
+}
+
+.backgr9 {
+    
+    background-color: #111111;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-bottom: 100px;
+    
+
+    
+}
+
+.iframe9 {
+    margin-left: 1040px;
+    padding-top: 200px;
+    margin-bottom: 100px;
+    width: 640px;
+    height: 360px;
+}
+
+.apaitu9 {
+    font-size: 30px;
+    text-align: right;
+    margin-right: 1280px;
+    margin-top: -450px;
+    margin-left: 100px;
+    
+}
+
+.kontenutama9 {
+    text-align: right;
+    margin-right: 1280px;
+    font-size: 25px;
+    margin-left: 250px;
+    
+    
+}
+
+.backgr10 {
+    
+    background-color: #111111;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-bottom: 100px;
+    
+
+    
+}
+
+.iframe10 {
+    margin-left: 200px;
+    padding-top: 200px;
+    margin-bottom: 100px;
+    width: 640px;
+    height: 360px;
+}
+
+.apaitu10 {
+    font-size: 30px;
+    text-align: left;
+    margin-right: 100px;
+    margin-top: -450px;
+    margin-left: 1080px;
+    
+}
+
+.kontenutama10 {
+    text-align: left;
+    margin-right: 100px;
+    font-size: 25px;
+    margin-left: 1080px;
+    padding-bottom: 100px;
+    
+}
